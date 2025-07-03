@@ -1,0 +1,59 @@
+Job Title – AI Generalist Intern (6-Month Program)
+Program Snapshot
+
+Month 0 – Ramp-up (4 weeks, unpaid)
+
+    Master the core tech stack.
+    Present a working AI agent that actually applies for this role.
+
+Months 1-5 – Internship (5 months, stipend if you complete Month 0 early)
+
+    Learn fast, hit delivery milestones, and start earning a performance-based stipend.
+
+Post-Internship – Full-time Conversion
+
+    Transition into a permanent AI role.
+    Continue earning 25 % of net sales on every SaaS product you create in-house.
+
+What You’ll Build and Automate
+
+    Generative-AI solutions: Create custom agents with ChatGPT, Claude, Gemini, VEO 3, Klink, Hailiou, Higgsfield, and more than 150 other AI tools.
+    Web and UI development: Rapidly prototype and ship responsive sites, dashboards, and internal tools.
+    Growth operations:
+     • Produce SEO-oriented content, ad copy, and creatives.
+     • Run end-to-end ad-management pipelines.
+     • Build WhatsApp and omni-channel marketing automations.
+    Workflow automation: Connect MCPs, public APIs, Pabbly, Boostspace, and low-code RPA platforms to streamline processes.
+    Domain expertise: Research and summarise ten healthcare specialities within your first three weeks to power domain-specific AI products.
+    In-house SaaS: Design, build, and sell internal SaaS apps—and keep a quarter of every dollar they earn.
+
+Success Metrics (KPIs) to Hit in Five Months
+
+    Achieve certified proficiency with 150+ AI tools and frameworks.
+    Deliver concise playbooks for ten healthcare specialities by Week 3.
+    Grow your personal LinkedIn following to at least 5 000.
+    Deploy at least ten live automation workflows across marketing, operations, or data.
+    Launch a minimum of one SaaS product and land its first paying customer.
+
+Must-Have Skills and Mindset
+
+    Solid grounding in Python or JavaScript and modern web stacks.
+    Familiarity with LLM-orchestration frameworks such as LangChain or LlamaIndex.
+    Growth-hacking instincts across SEO, paid ads, and persuasive copywriting.
+    Ability to self-teach quickly and document what you learn.
+    A founder’s mindset—treat every deliverable like a mini-startup.
+
+Nice-to-Have
+
+    Hands-on experience with RPA or no-code platforms.
+    Exposure to healthcare, med-tech, or bio-informatics.
+    UI/UX design skills with Figma, Tailwind, or shadcn/ui.
+
+Perks After Conversion
+
+    Competitive salary plus stock options.
+    Ongoing 25 % revenue share on every SaaS product you create.
+    Budget for conferences, courses, and tooling.
+    Daily mentorship from a cross-functional AI product team.
+
+
